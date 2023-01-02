@@ -1,0 +1,12 @@
+{
+    "tests": [
+        {
+            "name": "Test Hopfield Network",
+            "score": 6,
+            "max_score": 6
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 6
+}

@@ -1,0 +1,12 @@
+{
+    "tests": [
+        {
+            "name": "Test closed form policy",
+            "score": 8,
+            "max_score": 8
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 8
+}
