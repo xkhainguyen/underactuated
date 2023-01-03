@@ -1,0 +1,18 @@
+{
+    "tests": [
+        {
+            "name": "Test the single_pendulum_urdf_parameters",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Test the double_pendulum_urdf_parameters",
+            "score": 0.0,
+            "max_score": 5,
+            "output": "Test Failed: -7115120300195466536 != -4203674514941357763 : Incorrect double pendulum urdf parameters.\n"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 3.0
+}

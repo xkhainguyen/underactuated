@@ -1,0 +1,38 @@
+{
+    "tests": [
+        {
+            "name": "Test state space dynamics",
+            "score": 4,
+            "max_score": 4,
+            "output": "\n/tmp/ipykernel_123/3946620821.py:23: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray.\n  return np.array([f1, f2, f3, f4])\n"
+        },
+        {
+            "name": "Test linearization matrix A",
+            "score": 2,
+            "max_score": 2
+        },
+        {
+            "name": "Test linearization matrix B",
+            "score": 2,
+            "max_score": 2
+        },
+        {
+            "name": "Test x_list and u_list content",
+            "score": 1,
+            "max_score": 1
+        },
+        {
+            "name": "Test linearization errors",
+            "score": 2,
+            "max_score": 2
+        },
+        {
+            "name": "Test for which the system is able to recover",
+            "score": 2,
+            "max_score": 2
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 13
+}
