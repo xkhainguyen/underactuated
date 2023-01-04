@@ -1,0 +1,22 @@
+{
+    "tests": [
+        {
+            "name": "Test compute u_star",
+            "score": 2,
+            "max_score": 2
+        },
+        {
+            "name": "Test policy",
+            "score": 6,
+            "max_score": 6
+        },
+        {
+            "name": "Test compute state cost",
+            "score": 2,
+            "max_score": 2
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.97",
+    "score": 10
+}
