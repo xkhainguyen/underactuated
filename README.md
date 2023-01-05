@@ -13,4 +13,3 @@ This course introduces nonlinear dynamics and control of underactuated mechanica
 This repository only presents my personal work within the course. I would be very happy if it helps you to gain more knowledge and I could get constructive feedback from you. Let's learn together.
 
 *Please star :star: if you find it useful.*
-
