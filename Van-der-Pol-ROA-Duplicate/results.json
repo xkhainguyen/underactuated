@@ -1,0 +1,22 @@
+{
+    "tests": [
+        {
+            "name": "Test level set for Method 1",
+            "score": 5,
+            "max_score": 5
+        },
+        {
+            "name": "Test level set for Method 2",
+            "score": 5,
+            "max_score": 5
+        },
+        {
+            "name": "Test level set for Method 3",
+            "score": 5,
+            "max_score": 5
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.02",
+    "score": 15
+}
