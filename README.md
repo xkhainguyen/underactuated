@@ -13,3 +13,29 @@ This course introduces nonlinear dynamics and control of underactuated mechanica
 This repository only presents my personal work within the course. I would be very happy if it helps you to gain more knowledge and I could get constructive feedback from you. Let's learn together.
 
 *Please star :star: if you find it useful.*
+
+## Some Results
+
+Orbital Transfer Trajectory Optimization
+
+<img src="/Pics/orbits.png" width=40%> 
+
+Driving iLQR-based Trajectory Optimization
+
+<img src="/Pics/vehicle.png" width=40%> 
+
+Plane Perching Trajectory Optimization
+
+<img src="/Pics/perching.gif" width=40%> 
+
+Swing-up Cartpole 
+
+<img src="/Pics/cartpole.gif" width=40%>
+
+Swing-up Acrobot 
+
+<img src="/Pics/acrobot.gif" width=40%>
+
+Swing-up Pendulum
+
+<img src="/Pics/pendulum.gif" width=40%>
