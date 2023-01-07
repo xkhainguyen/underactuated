@@ -1,0 +1,27 @@
+{
+    "tests": [
+        {
+            "name": "Test asteroid collision",
+            "score": 6,
+            "max_score": 6
+        },
+        {
+            "name": "Test fuel consumption",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Test thrust limits",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Test velocity limits",
+            "score": 3,
+            "max_score": 3
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.05",
+    "score": 15
+}
