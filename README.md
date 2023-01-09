@@ -16,6 +16,10 @@ This repository only presents my personal work within the course. I would be ver
 
 ## Some Results
 
+Compass Gait Trajectory Optimization
+
+<img src="/Pics/walk.gif" width=40%>
+
 Orbital Transfer Trajectory Optimization
 
 <img src="/Pics/orbits.png" width=40%> 
@@ -35,7 +39,3 @@ Swing-up Cartpole
 Swing-up Acrobot 
 
 <img src="/Pics/acrobot.gif" width=40%>
-
-Swing-up Pendulum
-
-<img src="/Pics/pendulum.gif" width=40%>
