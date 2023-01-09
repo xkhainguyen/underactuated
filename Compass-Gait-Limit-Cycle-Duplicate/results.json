@@ -1,0 +1,32 @@
+{
+    "tests": [
+        {
+            "name": "No penetration of the swing foot in the ground for all times",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Stance-foot contact force in friction cone for all times",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Stance foot on the ground for all times",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Swing-foot impulse in friction cone",
+            "score": 2,
+            "max_score": 2
+        },
+        {
+            "name": "Swing foot on the ground at time zero",
+            "score": 2,
+            "max_score": 2
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.08",
+    "score": 13
+}
