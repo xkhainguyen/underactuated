@@ -1,7 +1,5 @@
 # underactuated
-My study corner for [MIT 6.832 - Underactuated Robotics](https://underactuated.csail.mit.edu/Spring2022/index.html)
-
-If GitHub cannot render `.ipynb` files, check [this](https://github.com/community/community/discussions/41020), or open with github.dev, or just dowload the files.
+My study corner for [MIT 6.832 - Underactuated Robotics](https://underactuated.csail.mit.edu/Spring2022/index.html) by Prof. Russ Tedrake. In my opinion, this course is one of the Wonders of the world of robotics.
 
 ## Course Description
 
@@ -11,6 +9,8 @@ This course introduces nonlinear dynamics and control of underactuated mechanica
 ## My Words
 
 This repository only presents my personal work within the course. I would be very happy if it helps you to gain more knowledge and I could get constructive feedback from you. Let's learn together.
+
+If GitHub cannot render `.ipynb` files, check [this](https://github.com/community/community/discussions/41020), or open with github.dev, or just dowload the files.
 
 *Please star :star: if you find it useful.*
 
