@@ -1,0 +1,17 @@
+{
+    "tests": [
+        {
+            "name": "Test RRT",
+            "score": 7,
+            "max_score": 7
+        },
+        {
+            "name": "Test RRT*",
+            "score": 7,
+            "max_score": 7
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "1.93",
+    "score": 14
+}
