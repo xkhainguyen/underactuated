@@ -16,6 +16,10 @@ If GitHub cannot render `.ipynb` files, check [this](https://github.com/communit
 
 ## Some Results
 
+Legged Robot Trajectory Optimization
+
+<img src="/Pics/dog.gif" width=40%>
+
 Compass Gait Trajectory Optimization
 
 <img src="/Pics/walk.gif" width=40%>
