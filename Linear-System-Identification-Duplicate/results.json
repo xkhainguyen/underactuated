@@ -1,0 +1,22 @@
+{
+    "tests": [
+        {
+            "name": "Test L1 regression",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Test L2 regression",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Test L infinite regression",
+            "score": 3,
+            "max_score": 3
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 9
+}

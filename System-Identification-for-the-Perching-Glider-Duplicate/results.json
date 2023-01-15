@@ -1,0 +1,17 @@
+{
+    "tests": [
+        {
+            "name": "Test basis function dynamics",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Test least squares fitting",
+            "score": 3,
+            "max_score": 3
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 6
+}
