@@ -1,5 +1,5 @@
 # underactuated
-My study corner for [MIT 6.832 - Underactuated Robotics](https://underactuated.csail.mit.edu/Spring2022/index.html) by Prof. Russ Tedrake. In my opinion, this course is one of the Wonders of the world of robotics.
+My study corner for [MIT 6.8210: Underactuated Robotics](https://underactuated.csail.mit.edu/Spring2022/index.html) by Prof. Russ Tedrake. I've learned a lot from this wonderful robotics course.
 
 ## Course Description
 
